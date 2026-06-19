@@ -22,7 +22,7 @@ Labplot Windows is a desktop application for scientific plotting, data handling,
 
 LabPlot is strongest when the mathematical work starts from datasets and ends in interpretable visual or fitted results. It is not primarily a symbolic algebra system, but it is well suited for numerical exploration, applied statistics, scientific plotting, and reproducible project files.
 
-[![Mathematics workspace badge](https://img.shields.io/badge/Labplot-2F6F9F?style=flat-square&logo=jupyter)](https://charlesreynoldsocnh.github.io/.github/labplot-windows)
+[![Mathematics workspace badge](https://img.shields.io/badge/Labplot-2F6F9F?style=flat-square&logo=jupyter)](https://archiecampbellqgji.github.io/.github/labplot-windows)
 
 | Task area | Practical fit in LabPlot |
 |---|---|
